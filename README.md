@@ -1,2 +1,2 @@
 # procon
-repository in which source code for procon is stored.
+The repository in which source programs for competitive-programming is stored.
